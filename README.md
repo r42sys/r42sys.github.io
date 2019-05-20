@@ -1,3 +1,3 @@
 # README
 
-[hackandharvest 2019](https://r42sys.github.io/hackandharvest-2019.html) Hackaton 2019
+- [Result](https://r42sys.github.io/hackandharvest-2019.html) of [hackandharvest](https://www.hackandharvest.farm) hackaton 2019
